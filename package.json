@@ -4,6 +4,16 @@
   "description": "Loafesque Theme by @gloriousLoaf on GitHub",
   "version": "0.0.1",
   "publisher": "metcalfdev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gloriousLoaf/Loafesque"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "gloriousLoaf",
+    "loafesque"
+  ],
   "engines": {
     "vscode": "^1.46.0"
   },
