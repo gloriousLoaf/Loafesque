@@ -1,0 +1,22 @@
+{
+  "name": "loafesque",
+  "displayName": "Loafesque",
+  "description": "Loafesque Theme by @gloriousLoaf on GitHub",
+  "version": "0.0.1",
+  "publisher": "metcalfdev",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Loafesque",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Loafesque-color-theme.json"
+      }
+    ]
+  }
+}
