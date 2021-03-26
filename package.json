@@ -2,6 +2,7 @@
   "name": "loafesque",
   "displayName": "Loafesque",
   "description": "Loafesque Theme by @gloriousLoaf on GitHub",
+  "icon": "images/loaf.png",
   "version": "0.0.2",
   "publisher": "metcalfdev",
   "repository": {
